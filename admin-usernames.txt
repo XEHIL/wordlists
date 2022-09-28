@@ -1,0 +1,15 @@
+root
+admin
+test
+guest
+user
+administrator
+superuser
+default
+dbuser
+anonymous
+system
+ubuntu
+manager
+demo
+xampp
